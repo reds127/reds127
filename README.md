@@ -1,18 +1,27 @@
 ## Hi there 👋
-###📊 My Coding Languages
+Welcome to my GitHub profile. I use this space to build open-source projects, track data analysis workflows, and version-control my scripts.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reds127&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**reds127/reds127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=reds127&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack & Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+
+### 🏆 GitHub Trophies
+
+[![github contribution trophies](https://github-profile-trophy.vercel.app/?username=reds127&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### ⚡ Activity Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=reds127theme=tokyonight)](https://git.io/streak-stats)
+
