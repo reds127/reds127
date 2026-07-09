@@ -3,7 +3,7 @@ Welcome to my GitHub profile. I use this space to build open-source projects, tr
 
 ### Languages
 
-[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=reds127&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Rcodes1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -17,11 +17,11 @@ Welcome to my GitHub profile. I use this space to build open-source projects, tr
 
 ### 🏆 GitHub Trophies
 
-[![github contribution trophies](https://github-profile-trophy.vercel.app/?username=reds127&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![github contribution trophies](https://github-profile-trophy.vercel.app/?username=Rcodes1&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### ⚡ Activity Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=reds127theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Rcodes1theme=tokyonight)](https://git.io/streak-stats)
 
