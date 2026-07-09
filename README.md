@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to my GitHub profile. I use this space to build open-source projects, track data analysis workflows, and version-control my scripts.
+Welcome to my GitHub profile. I use this space to build open-source projects and version-control my scripts.
 
 ### Languages
 
